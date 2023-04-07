@@ -1,1 +1,2 @@
-i am shruti bharti
+i am shruti bharti. i am trying to learning the git and github .how to use it. branching and cloning.i am also learing the forking and branching and merging in the project while using the github.
+
